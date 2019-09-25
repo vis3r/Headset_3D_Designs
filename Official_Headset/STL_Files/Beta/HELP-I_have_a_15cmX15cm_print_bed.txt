@@ -1,0 +1,11 @@
+HELP-I have a 15cmX15cm print bed
+
+No Problem...!
+
+Most of the headset actually fits on a 15x15cm print bed.
+
+However, there are special versions of the Outer_Shell and FrontPlate designed for a smaller print bed
+
+Just look for the 15x15_Print_Bed folder
+
+You will have to glue some of the bits together, but it's the best we could do for you.
