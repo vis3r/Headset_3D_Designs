@@ -9,3 +9,5 @@ However, there are special versions of the Outer_Shell and FrontPlate designed f
 Just look for the 15x15_Print_Bed folder
 
 You will have to glue some of the bits together, but it's the best we could do for you.
+
+Sorry, this is still in BETA for now - but it should be fully ready in a couple of days...
