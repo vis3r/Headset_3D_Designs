@@ -18,3 +18,5 @@ Both the Left_Hand_Frame and the Right_Hand_Frame will take 20% longer to print 
 For the MAIN_BODY, it is really not neccessary to print the Left_Hand_Frame and Right_Hand_Frame at a low layer height. They will be hidden behind the Outer_Shell, and as such, can be printed ant 0.24 or 0.28 Layer Heights with no noticable adverse visual effects.
 
 The FrontPlate is best printed at a Layer Height of 0.16 or 0.20, although it still looks fine at 0.28 too.
+
+You will need to work out your Inter-Pupillary Distance (centre of eyeball to centre-line of nose). This involves printing the IPD_Ruler PDF file in this folder and taking a selfie. Alternatively, you can ask a friendly optician, but the selfie is probably quicker and easier.
